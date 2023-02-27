@@ -1,0 +1,32 @@
+Creation of unnothingness
+
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# Fecha:     Thu Jan 1 01:00:00 1970 +0100
+#
+# rebase interactivo en progreso; sobre 65a51bf
+# Last command done (1 command done):
+#    edit 2351dbd Creation of unnothingness
+# Next commands to do (2 remaining commands):
+#    pick 467c5c4 Current times
+#    pick 4bf4343 Splashy civilizaion
+# Estás editando un commit mientras se aplica un rebase de la rama 'future' sobre '65a51bf'.
+#
+#
+# Confirmación inicial
+#
+# Cambios a ser confirmados:
+#	nuevos archivos: .gitignore
+#	nuevos archivos: LICENSE
+#	nuevos archivos: README.md
+#	nuevos archivos: SUMMARY.txt
+#	nuevos archivos: earth.txt
+#	nuevos archivos: missions.txt
+#	nuevos archivos: moon.txt
+#	nuevos archivos: music.txt
+#	nuevos archivos: pluto.txt
+#	nuevos archivos: sun.txt
+#	nuevos archivos: wars.txt
+#

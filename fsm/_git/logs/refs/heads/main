@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 db3fa071184e521e577719e03df7e44c8c718dc1 E9E4124B <buztor@hotmail.com> 1677391385 +0100	commit (initial): Creation of everything
+db3fa071184e521e577719e03df7e44c8c718dc1 358659647286d2d57668e60fa76a71995bb0b751 E9E4124B <buztor@hotmail.com> 1677391517 +0100	commit (amend): Creation of everything
+358659647286d2d57668e60fa76a71995bb0b751 a9ac297708aca0bf2309eb40f6974e5888802793 E9E4124B <buztor@hotmail.com> 1677391562 +0100	commit (amend): Creation of everything
+a9ac297708aca0bf2309eb40f6974e5888802793 5fbe5d74827e74e8cf2d25f9f33d1835f3cd2993 E9E4124B <buztor@hotmail.com> 1677391570 +0100	commit (amend): Creation of everything
+5fbe5d74827e74e8cf2d25f9f33d1835f3cd2993 a05c635138d03ae545c765dfc7c6d6656d92b3c3 E9E4124B <buztor@hotmail.com> 1677391593 +0100	commit (amend): Creation of everything
+a05c635138d03ae545c765dfc7c6d6656d92b3c3 31c2be70e3166a94f26b94637d0361c244732cc1 E9E4124B <buztor@hotmail.com> 1677445970 +0100	commit (amend): Creation of unnothingness
+31c2be70e3166a94f26b94637d0361c244732cc1 8ca25541c5783f500cc3dd49a872e21dfbcd1466 E9E4124B <buztor@hotmail.com> 1677446973 +0100	commit: beggining of unnothingness
+8ca25541c5783f500cc3dd49a872e21dfbcd1466 d3c991f2bd5bd1b9767b6eec511a85e7580bf192 E9E4124B <buztor@hotmail.com> 1677447894 +0100	commit (amend): Creation of unnothingness
+d3c991f2bd5bd1b9767b6eec511a85e7580bf192 4f7d4f73e6ee3c196336be8287e7ad6e0486e1fa E9E4124B <buztor@hotmail.com> 1677453439 +0100	rebase (continue) (finish): refs/heads/master onto 4fca60cb46e4801b8edec1b7344128b479c29431
+4f7d4f73e6ee3c196336be8287e7ad6e0486e1fa 4f7d4f73e6ee3c196336be8287e7ad6e0486e1fa E9E4124B <buztor@hotmail.com> 1677453577 +0100	Branch: renamed refs/heads/master to refs/heads/main
+4f7d4f73e6ee3c196336be8287e7ad6e0486e1fa cbaa6f922fe212583ef62c818faaa2120dacaa79 E9E4124B <buztor@hotmail.com> 1677453844 +0100	commit (amend): Creation of unnothingness
+cbaa6f922fe212583ef62c818faaa2120dacaa79 2351dbd31d939dba1891afa0d71ac95b2baa91cc E9E4124B <buztor@hotmail.com> 1677454007 +0100	rebase (continue) (finish): refs/heads/main onto 682ef2aab7a79845ae571288a2e88f15b24c7f0a
+2351dbd31d939dba1891afa0d71ac95b2baa91cc 00339545cd4da1840429c1996da05c473eb2db04 E9E4124B <buztor@hotmail.com> 1677459746 +0100	commit: Current times
+00339545cd4da1840429c1996da05c473eb2db04 467c5c487b572c4ec6b75307823e8e41c489304f E9E4124B <buztor@hotmail.com> 1677459823 +0100	rebase (continue) (finish): refs/heads/main onto 2351dbd31d939dba1891afa0d71ac95b2baa91cc
+467c5c487b572c4ec6b75307823e8e41c489304f 681692e4cb52f8b93e123e0c7ac36cc67ba9cad0 E9E4124B <buztor@hotmail.com> 1677462575 +0100	rebase (continue) (finish): refs/heads/main onto f45af29d231a41e17322707e5720f378a5c0b312
